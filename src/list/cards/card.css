@@ -1,0 +1,22 @@
+.card-list{
+    background-color: rgb(238, 225, 173);
+    box-shadow: 5px 5px silver;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+.card-delete{
+    float: right;
+    padding: 3px;
+    background-color: red;
+    border-radius: 50%;
+}
+.card-head{
+    background-color: rgb(238, 225, 173) ;
+}
+.card-desc{
+    background-color: whitesmoke;
+    margin:10px 0 2px 0 ;
+    border-radius: 5px;
+    padding: 5px;
+}

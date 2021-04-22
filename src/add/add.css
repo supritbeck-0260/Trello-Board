@@ -1,0 +1,27 @@
+.addComp-add{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.addComp-input,.addComp-button{
+    padding: 5px;
+    margin: 2px;
+}
+.addComp-input{
+ width: 100%;
+}
+.addComp-button{
+    width: 50px;
+}
+.addComp-add h4{
+    text-align: center;
+    background-color: orange;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}

@@ -1,0 +1,19 @@
+.list-main{
+    width: 250px;
+    padding: 5px;
+    background-color: skyblue;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 5px 5px silver;
+}
+.list-head{
+    text-align: center;
+    background-color: lightyellow;
+    border: 5px;
+    padding: 5px;
+}
+.delete{
+    float: right;
+    padding: 3px;
+    background-color: red;
+}
